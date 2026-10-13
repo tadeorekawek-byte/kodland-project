@@ -1,1 +1,2 @@
 to jest test 1
+to jest zmiana w tym pliku
